@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Cheddar",
+    "description": "Description for product Cheddar ",
+    "price": 10.55,
+    "amountAvailable": 5,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Brie",
+    "description": "Description for product Brie",
+    "price": 7.89,
+    "amountAvailable": 2,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Parmesan",
+    "description": "Description for product Parmesan",
+    "price": 19.99,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Gouda",
+    "description": "Description for product Gouda",
+    "price": 5.69,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Feta",
+    "description": "Description for product Feta",
+    "price": 12.57,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Camembert",
+    "description": "Description for product Camembert",
+    "price": 10.99,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Roquefort",
+    "description": "Description for product Roquefort",
+    "price": 19.99,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Mozzarella",
+    "description": "Description for product Mozzarella",
+    "price": 17.45,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Provolone",
+    "description": "Description for product Provolone",
+    "price": 10.25,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Blue Cheese",
+    "description": "Description for product 3",
+    "price": 7.48,
+    "amountAvailable": 10,
+    "category": "cheese",
+    "inStock": true
+  },
+  {
+    "name": "Carrots",
+    "description": "Description for product Carrots",
+    "price": 1.99,
+    "amountAvailable": 1,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Broccoli",
+    "description": "Description for product Broccoli",
+    "price": 3.99,
+    "amountAvailable": 1,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Cauliflower",
+    "description": "Description for product Cauliflower",
+    "price": 4.99,
+    "amountAvailable": 1,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Kale",
+    "description": "Description for product Kale",
+    "price": 2.49,
+    "amountAvailable": 5,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Spinach",
+    "description": "Description for product Spinach",
+    "price": 1.79,
+    "amountAvailable": 8,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Bell Peppers",
+    "description": "Description for product Bell Peppers",
+    "price": 0.99,
+    "amountAvailable": 2,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Tomatoes",
+    "description": "Description for product Tomatoes",
+    "price": 1.29,
+    "amountAvailable": 3,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Zucchini",
+    "description": "Description for product Zucchini",
+    "price": 2.99,
+    "amountAvailable": 1,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Potatoes",
+    "description": "Description for product Potatoes",
+    "price": 0.79,
+    "amountAvailable": 5,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Onions",
+    "description": "Description for product Onions",
+    "price": 0.49,
+    "amountAvailable": 3,
+    "category": "vegetables",
+    "inStock": true
+  },
+  {
+    "name": "Apples",
+    "description": "Description for product Apples",
+    "price": 2.99,
+    "amountAvailable": 2,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Bananas",
+    "description": "Description for product Bananas",
+    "price": 0.79,
+    "amountAvailable": 5,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Oranges",
+    "description": "Description for product Oranges",
+    "price": 1.49,
+    "amountAvailable": 3,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Strawberries",
+    "description": "Description for product Strawberries",
+    "price": 3.99,
+    "amountAvailable": 9,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Blueberries",
+    "description": "Description for product Blueberries",
+    "price": 4.99,
+    "amountAvailable": 8,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Grapes",
+    "description": "Description for product Grapes",
+    "price": 2.49,
+    "amountAvailable": 7,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Pineapple",
+    "description": "Description for product Pineapple",
+    "price": 3.99,
+    "amountAvailable": 3,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Mangoes",
+    "description": "Description for product Mangoes",
+    "price": 1.99,
+    "amountAvailable": 4,
+    "category": "fruits",
+    "inStock": true
+  },
+  {
+    "name": "Cocos",
+    "description": "Description for product Mangoes",
+    "price": 1.99,
+    "amountAvailable": 0,
+    "category": "fruits",
+    "inStock": false
+  }
+]
