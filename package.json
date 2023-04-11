@@ -7,7 +7,6 @@
     "start": "node app.js",
     "dev": "nodemon app.js",
     "migration:create": "migrate-mongo create",
-    "migration:init": "migrate-mongo init",
     "migration:up": "migrate-mongo up"
   },
   "author": "",
